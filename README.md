@@ -13,10 +13,15 @@ A fun and interactive web application that generates random jokes based on the u
 - **Frontend**: React.js
 - **Backend**: (Include backend technology if applicable, e.g., Node.js, Flask)
 - **Joke API/Service**: (If you're using an API to fetch jokes, mention it here)
-- **CSS Framework**: (If you used any, such as Tailwind CSS or Bootstrap)
+- **CSS Framework**: Tailwind CSS
+
+## Live Website
+
+You can access the live version of the app here:  
+[**JokeGen Live**](https://shaazandjokes.netlify.app/)
 
 ## How to Run Locally
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shaaz10/jokegen
